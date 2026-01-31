@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Monipalvelu Nordic | Luotettavaa arjen apua</title>
+<meta name="description" content="Monipalvelu Nordic tarjoaa kotipalvelut, pientyöt, siivoukset ja asiointiapua Kirkkonummi–Espoo–Vantaa–Helsinki alueella." />
+<style>
+body { margin:0; font-family: Arial, sans-serif; color:#222; line-height:1.6; }
+header { background:url('https://images.unsplash.com/photo-1581578731548-c64695cc6952') center/cover no-repeat; color:#fff; }
+header .overlay { background:rgba(0,0,0,0.55); padding:80px 20px; text-align:center; }
+h1,h2,h3 { margin-top:0; }
+section { padding:60px 20px; max-width:1100px; margin:auto; }
+.services, .pricing { display:grid; grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); gap:20px; }
+.card { background:#f7f7f7; padding:25px; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.08); }
+.cta { background:#111; color:#fff; text-align:center; padding:60px 20px; }
+.cta a { display:inline-block; background:#ffcc00; color:#000; padding:15px 30px; border-radius:30px; text-decoration:none; font-weight:bold; }
+footer { background:#eee; text-align:center; padding:30px 20px; font-size:14px; }
+</style>
+</head>
+<body>
+
+
+<header>
+<div class="overlay">
+<h1>Monipalvelu Nordic</h1>
+<p>Luotettavaa arjen apua silloin kun sitä tarvitset</p>
+<p><strong>Kirkkonummi • Espoo • Vantaa • Helsinki</strong></p>
+</div>
+</header>
+
+
+<section>
+<h2>Mitä teen?</h2>
+<p>Monipalvelu Nordic on ketterä kevytyrittäjäpalvelu, joka auttaa kodeissa ja arjessa. Saat saman tekijän hoitamaan monenlaiset työt – joustavasti ja reiluun hintaan.</p>
+</section>
+
+
+<section>
+<h2>Palvelut</h2>
+<div class="services">
+<div class="card">
+<h3>🧹 Siivous & kodinhoito</h3>
+<p>Kotisiivous, muuttosiivous, ikkunanpesut ja arjen apu.</p>
+</div>
+<div class="card">
+<h3>🔧 Pientyöt & asennukset</h3>
+<p>Huonekalujen kasaus, seinäkiinnitykset, pienet korjaukset.</p>
+</div>
+<div class="card">
+<h3>🚗 Asiointi- ja kuljetusapu</h3>
+<p>Kauppa- ja apteekkikäynnit, noudot ja pienkuljetukset.</p>
+</div>
+<div class="card">
+<h3>🌿 Piha- ja kausityöt</h3>
+<p>Nurmikonleikkuu, haravointi, lumenluonti.</p>
+</div>
+</div>
+</section>
+
+
+<section>
+<h2>Hinnasto</h2>
+<div class="pricing">
+<div class="card">
+<h3>Tuntityö</h3>
+<p><strong>45 € / h</strong></p>
+<p>Sis. ALV. Kotitalousvähennys mahdollinen.</p>
+</div>
+<div class="card">
+<h3>Siivous</h3>
+<p><strong>40 € / h</strong></p>
+<p>Säännöllinen tai kertaluontoinen.</p>
+</div>
+<div class="card">
+<h3>Pienkuljetus</h3>
+<p><strong>Alk. 60 €</strong></p>
+<p>Hinta sovitaan matkan ja työn mukaan.</p>
+</div>
+</div>
+</section>
+
+
+<section class="cta">
+<h2>Ota yhteyttä</h2>
+<p>Kerro mitä tarvitset – vastaan nopeasti.</p>
+<a href="mailto:info@monipalvelunordic.fi">Lähetä sähköpostia</a>
+</section>
+
+
+<footer>
+<p>© 2026 Monipalvelu Nordic | Kevytyrittäjä</p>
+</footer>
+
+
+</body>
+</html>
